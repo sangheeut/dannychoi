@@ -3,7 +3,7 @@
 }
 
 .left-item {
-   width: 500px;
+   width: 700px;
    height: 500px;
    margin-left: 10px;
    margin-top: 20px;
@@ -11,8 +11,8 @@
 }
 
 .right-item {
-  margin-left: 70px;
-  margin-top: 20px;
+  margin-left: 30px;
+  margin-top: 13px;
   width: 500px;
   height: 300px;
 }
@@ -97,7 +97,7 @@ img {
 }
 
 .img_src {
- width: 500px;
+ width: 700px;
  object-fit: cover;
 }
 
